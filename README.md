@@ -18,3 +18,6 @@ for showing the loader I have used ternaray operator in react if the value of is
 >**User_Card**  
 
 I have used map function to map every object to the component and passed the different attribute as props and used it to display the cards
+
+>Time taken  
+8hr
