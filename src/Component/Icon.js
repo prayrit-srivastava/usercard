@@ -5,7 +5,7 @@ export default function Icon() {
   return (
     <div>
         <AiFillGithub style={{paddingRight : "7px"}}/>
-        Github
+        UserCard
     </div>
   );
 }

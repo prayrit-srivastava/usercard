@@ -3,7 +3,6 @@ import Icon from './Component/Icon';
 import React, { useEffect, useState } from "react";
 import './App.css';
 import Grid from './Component/Grid';
-import { AiOutlineLoading3Quarters } from 'react-icons/ai';
 import * as ReactBootstrap from 'react-bootstrap';
 
 
